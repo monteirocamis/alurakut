@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/26682838/125395206-41d9a100-e381-11eb-9751-e3eb97c82653.png)
+
+![image](https://user-images.githubusercontent.com/26682838/125395156-30909480-e381-11eb-8126-7166a79fa904.png)
+
+
 # Example app with styled-components
 
 This example features how you use a different styling solution than [styled-jsx](https://github.com/vercel/styled-jsx) that also supports universal styles. That means we can serve the required styles for the first render within the HTML and then load the rest in the client. In this case we are using [styled-components](https://github.com/styled-components/styled-components).
