@@ -4,7 +4,6 @@
 
 ![image](https://user-images.githubusercontent.com/26682838/125571238-237a320a-34c5-46bf-8992-9655a8f16a51.png)
 ![image](https://user-images.githubusercontent.com/26682838/125571259-58e104d6-0d3f-4f86-b8e7-c7cd15d82557.png)
- npm run dev ou yarn dev
 
 # dev start
  npm run dev or yarn dev
